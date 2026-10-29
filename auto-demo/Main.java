@@ -14,6 +14,12 @@ public class Main {
         auto2.malli = "Juke";
         auto2.bensanMaara = 15;
 
+        Auto auto3 = new Auto();
+        
+        auto3.merkki = "Nissan";
+        auto3.malli = "Micra";
+        auto3.bensanMaara = 5;
+
         auto1.naytaTiedeot();
 
         auto1.kiihdyta();
