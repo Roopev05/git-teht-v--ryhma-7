@@ -5,7 +5,7 @@ public class Main {
         
         
         auto1.merkki = "Bmw";
-        auto1.malli = "X5";
+        auto1.malli = "X3";
         auto1.bensanMaara = 30;
 
         Auto auto2 = new Auto();
