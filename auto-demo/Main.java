@@ -3,10 +3,10 @@ public class Main {
         
         Auto auto1 = new Auto();
         
-
-        auto1.merkki = "Volvo";
-        auto1.malli = "S40";
-        auto1.bensanMaara = 10;
+        
+        auto1.merkki = "Bmw";
+        auto1.malli = "X5";
+        auto1.bensanMaara = 30;
 
         Auto auto2 = new Auto();
         
