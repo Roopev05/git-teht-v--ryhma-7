@@ -17,7 +17,7 @@ public class Main {
         Auto auto3 = new Auto();
         
         auto3.merkki = "Nissan";
-        auto3.malli = "Micra";
+        auto3.malli = "sSkyline";
         auto3.bensanMaara = 5;
 
         auto1.naytaTiedeot();
